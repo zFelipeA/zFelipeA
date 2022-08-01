@@ -1,7 +1,7 @@
 ## Hi, I'm Felps!
 ### About
 - 📚 Software Engineering Student at the University of São Paulo
-- 🖥️ Working with programming for over 5 years
+- 🚀 Working with programming for over 5 years
 
 ### Skills
  - Desktop development languages: Lua, JS, Nodejs; 
