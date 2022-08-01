@@ -4,7 +4,7 @@
 - 🚀 Working with programming for over 5 years
 
 ### Skills
- - Desktop development languages: Lua, JS, Nodejs; 
+ - 🔮 Desktop development languages: Lua, JS, Nodejs; 
  - Database: MongoDB, Mysql;
  - Web skills: HTML, CSS, JavaScript;
 
