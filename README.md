@@ -5,8 +5,8 @@
 
 ### Skills
  - 🔮 Desktop development languages: Lua, JS, Nodejs; 
- - Database: MongoDB, Mysql;
- - Web skills: HTML, CSS, JavaScript;
+ - 💾 Database: MongoDB, Mysql;
+ - 💻 Web skills: HTML, CSS, JavaScript;
 
 ### Experiences
-  - I have experience with web development and applications back-and. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
+  - 🧥 I have experience with web development and applications back-and. I also have knowledge of reverse engineering and for a long time I worked in this sector manipulating application and game memory.
