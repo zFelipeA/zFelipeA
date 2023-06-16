@@ -1,6 +1,6 @@
 ## Hi, I'm zFelpszada!
 ### About
-- 📚 Software Engineering Student at the University of São Paulo
+- 📚 Full-Stack developer
 - 🚀 Working with programming for over 6 years
 
 ### Skills
