@@ -1,7 +1,7 @@
 ## Hi, I'm zFelpszada!
 ### About
 - 📚 Full-Stack developer
-- 🚀 Working with programming for over 6 years
+- 🚀 Working with programming for over 7 years
 
 ### Skills
  - 🔮 Desktop development languages: Nodejs, Lua; 
