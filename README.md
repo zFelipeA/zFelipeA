@@ -5,7 +5,7 @@
 </h1>
 
 ### About
-- 📚 Full-Stack developer
+- 🛠 Full-Stack developer
 - 🚀 Working with programming for over 8 years
 
 ### Skills
