@@ -1,4 +1,9 @@
-## Hi, I'm zFelpszada!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Felipe+Augusto!+%F0%9F%94%AE" alt="Typing SVG" />
+  </a>
+</h1>
+
 ### About
 - 📚 Full-Stack developer
 - 🚀 Working with programming for over 8 years
