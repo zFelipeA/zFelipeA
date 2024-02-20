@@ -5,8 +5,8 @@
 </h1>
 
 ### About
-- 🛠 Full-Stack developer
-- 🚀 Working with programming for over 8 years
+- 🛠 Full-Stack developer;
+- 🚀 Working with programming for over 8 years;
 
 ### Skills
  - 🔮 Desktop development languages: Rust, Java and Node.js; 
