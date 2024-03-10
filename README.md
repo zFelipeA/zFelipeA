@@ -9,7 +9,7 @@
 - 🚀 Working with programming for over 8 years;
 
 ### Skills
- - 🔮 Desktop development languages: Rust, Java, Javascript(Node.js) and Lua; 
+ - 🔮 Development languages: Rust, Java, Javascript and Lua; 
  - 💻 Web skills: HTML, CSS, JavaScript, React, NextJs;
 
 ### Experiences
